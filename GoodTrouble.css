@@ -1,0 +1,115 @@
+
+
+* {
+	font-family: impact;
+	font-color: #191919;
+}
+
+html {
+	
+	background-image: url(pics/background.jpg);
+	background-position: static;
+	background-size: 100% 100%;
+	background-position: center;
+
+}
+
+#main {
+	background-color: rgba(0,0,0,0.1);
+}
+#menu {
+	background-color: rgba(0,0,0,0.1);
+}
+#highschool {
+	height: 250px;
+	overflow: scroll;
+	background-image: url(pics/highschool.png);
+	background-size: 100% 100%;
+}
+
+#middleschool {
+	height: 250px;
+	overflow: scroll;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-image: url(pics/middleschool.png);
+	background-size: 100% 100%;
+}
+
+#members {
+}
+
+#aboutus {
+	height: 250px;
+	width: 500;
+	overflow: scroll;
+	background-image: url(pics/aboutus.png);
+	background-size: 100% 100%;
+}
+
+
+
+td {
+	border-radius: 16px solid;
+}
+
+#JohnLewisQuote {
+	font-family: "Georgia";
+}
+
+#aboutme {
+	width: 65%;
+	height: 100%;
+	float: right;
+
+
+
+}
+
+#portraits {
+	border-radius: 50px;
+	float: left;
+	
+} 
+
+#newsletter {
+
+}
+
+#paypal {
+	width: 150px;
+}
+
+#facebook {
+	float: right;
+}
+
+
+#mainmain {
+	margin-right: 1in;
+	margin-left: 1in;
+	margin-bottom: 1in;
+	/*margin-top: 1in;*/
+	width: 75%;
+}
+
+#bottom {
+	width: 75$;
+	height: 150px;
+}
+#fb{
+	width: 150px;
+	border: 2px solid;
+	float: left;
+}
+
+#portraits {
+
+    border: 10px solid transparent;
+    padding: 0px;
+    -webkit-border-image: url(pics/border.png) 30 stretch; /* Safari 3.1-5 */
+    -o-border-image: url(pics/border.png) 30 stretch; /* Opera 11-12.1 */
+    border-image: url(pics/border.png) 30 stretch;
+}
+
+
